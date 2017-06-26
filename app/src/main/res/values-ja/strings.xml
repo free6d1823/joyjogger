@@ -1,0 +1,154 @@
+﻿<?xml version = "1.0" encoding = "utf-8"?>
+<resources>
+
+     <string name = "app_name"> Jogger管理 </string>
+     <string name = "str_version_info"> バージョン V2.0 </string>
+     <string name = "str_slogon"> Your Joger management application on smart phone </string>
+     <string name = "str_product_info"> 何か提案がある場合は、メールでお問い合わせください </string>
+     <string name = "action_settings"> 動作設定 </string>
+     <string name = "action_record_management"> レコードマネジメント </string>
+     <string name = "title_activity_goal_settings"> 目標設定 </string>
+     <string name = "action_help"> ヘルプ </string>
+     <string name = "action_about"> について </string>
+    
+    
+     <string name = "str_goal1"> 低目標 </string>
+     <string name = "str_goal2"> 高目標 </string>
+     <string name = "title_achievement"> 実績 </string>
+     <string name = "goal_minutes_per_day"> 日当たり最小ジョギング時間</string>
+     <string name = "goal_days_per_week"> 週最小の運動日数 </string>
+     <string name = "goal_kcal_per_week"> 最低週カロリー </string>
+     <string name = "achieverate_goal1"> 低ゴールの達成率</string>
+     <string name = "achieverate_goal2"> 高い目標の達成率</string>
+     <string name = "radar_axis0_label"> 日 </string>
+     <string name = "radar_axis1_label"> 分 </string>
+     <string name = "radar_axis2_label"> 消費カロリー </string>
+     <string name = "radar_title"> レーダーチャート</string>
+     <string name = "action_instructions"> インストラクション</string>
+     <string name = "str_null"> </string>
+ 
+ 
+ 
+     <string name = "start"> スタート  </string>
+     <string name = "stop"> 停止  </string>
+     <string name = "reset"> 削除  </string>
+     <string name = "time"> 時間 </string>
+     <string name = "steps"> ステップ </string>
+     <string name = "distance"> 距離 </string>
+     <string name = "personal_profile"> パーソナルプロファイル </string>
+     <string name = "str_personal_id"> 名前 </string>
+     <string name = "str_personal_id_desc"> 自分自身を識別するための任意の文字を入力してください。実名必要ありません。 </string>
+     <string name = "str_select_gender"> あなたの性別を選択してください </string>
+     <string name = "str_select_gender_desc"> 性別はBMIを計算するために使用され  </string>
+     <string name = "str_input_height"> あなたの身長を入力してください </string>
+     <string name = "str_input_height_desc"> 身長はBMIを計算するために使用されている。 </string>
+     <string name = "str_input_weight"> あなたの体重を入力してください </string>
+     <string name = "str_input_weight_desc"> 体重はBMIとカロリー消費量を計算するために使用されます。 </string>
+     <string name = "str_input_waist"> ウエストを入力してください </string>
+     <string name = "str_input_waist_desc"> ウエストが脂肪度を計算するために使用されている </string>
+     <string name = "str_gender"> 性別</string>
+     <string name = "str_height"> 身長</string>
+     <string name = "str_weight"> 体重</string>
+     <string name = "str_waist"> ウエスト</string>
+     <string name = "str_male"> 男性</string>
+     <string name = "str_female"> 女性</string>
+     <string name = "str_cm"> センチ </string>
+     <string name = "str_kg"> キロ </string>
+    <string name = "str_inch"> インチ </string>
+    <string name = "str_feet">フィート</string>
+    <string name = "str_pound"> ポンド </string>
+     <string name = "str_date"> 日付</string>
+     <string name = "str_BMI"> BMI 正常範囲 18.5 ~ 24) </string>
+     <string name = "str_waist_normal"> ウエストが通常レベルです</string>
+     <string name = "str_waist_thin"> ウエストが薄すぎる </string>
+     <string name = "str_waist_fat"> 肥満 </string>
+     <string name = "str_bmi_thin"> 低体重 </string>
+     <string name = "str_bmi_normal">あなたの体脂肪が正常なレベルである。</string>
+     <string name = "str_bmi_heavy"> 太りすぎ </string>
+     <string name = "str_bmi_fat"> 軽度の肥満 </string>
+     <string name = "str_bmi_middle_fat"> 中程度の肥満 </string>
+     <string name = "str_bmi_too_fat"> 重度肥満 </string>
+     <string name = "settings_motion_type"> タイプ </string>
+     <string name = "settings_type_walk"> 歩いている </string>
+     <string name = "settings_type_jog"> 速く歩く </string>
+     <string name = "settings_type_run"> 実行</string>
+     <string name = "settings_step_distance"> ステップ距離</string>
+     <string name = "str_step_distance_desc">ステップ距離、速度とカロリー消費量を計算するために使用される。 </string>
+     <string name = "settings_measure_system"> 測定の単位</string>
+     <string name = "settings_measure_system_desc"> 申し訳ありません！このバージョンは、メートル単位をサポートしています。 </string>
+     <string name = "system_metric">メートル </string>
+     <string name = "system_english"> インチ </string>
+     <string name = "settings_minutes_to_sleep">自動停止時間</string>
+     <string name = "settings_minutes_to_sleep_desc"> 時間をかけて何のアクションは、カウンタは電力を節約するために停止しなくなります。 </string>
+     <string name = "settings_record_keep_days"> レコードを保持する日数</string>
+     <string name = "settings_record_keep_days_desc"> レコードの最大日数は、ローカルストレージに保持することができる。 </string>
+     <string name = "settings_mini_free_space"> 最小空の記憶 </string>
+     <string name = "settings_mini_free_space_desc"> ストレージ内の最も古い記録は、最小空き容量を維持するために削除されます。  </string>
+     <string name = "str_current_free_space"> 空/すべて： </string>
+     <string name = "title_activity_food_fragment"> 食品·エネルギー </string>
+     <string name = "title_food_energy">食品·エネルギー</string>
+     <string name = "title_activity_personal_profile">パーソナルプロファイル </string>
+ 
+     <string name = "daily_report"> 毎日の </string>
+     <string name = "weekly_report"> 週の </string>
+          
+     <string name = "monthly_report"> 月の </string>
+     <string name = "str_second"> 秒</string>
+     <string name = "str_minute"> 分 </string>
+     <string name = "str_hour"> 時</string>
+     <string name = "str_days"> 日 </string>
+     <string name = "str_mb"> MB </string>
+     <string name = "str_kcal"> kcal </string>
+     <string name = "str_cal"> cal. </string>
+    <string name = "str_energy"> Energy</string>
+    <string name = "str_speed"> Speed </string>
+    <string name = "str_rpm"> 歩/分 </string>
+     <string name = "str_rph"> 歩/時 </string>
+     <string name = "str_rpd"> 歩/日 </string>
+     <string name = "str_achieve_rate"> 達成率 </string>
+     <string name = "str_actual"> 実績 </string>
+
+     <string-array name = "record_keep_days_options">
+         <item> 一週間 </item>
+         <item> 一ヶ月 </item>
+         <item> 3ヶ月 </item>
+         <item> 半年 </item>
+         <item> 一年 </item>
+         <item> フォーエバー </item>
+     </string-array>
+     <string-array name = "goal1_minutes_per_day_options">
+         <item> 15 分 </item>
+         <item> 30 分 </item>
+         <item> 45 分 </item>
+         <item> 60 分 </item>
+     </string-array>
+     <string-array name = "goal2_minutes_per_day_options">
+         <item> 1時間半 </item>
+         <item> 2時間 </item>
+         <item> 2時間半 </item>
+         <item> 三時間 </item>
+     </string-array>
+     <string-array name = "week_days">
+         <item> 土</item>
+         <item> 日 </item>
+         <item> 月 </item>
+         <item> 火 </item>
+         <item> 水 </item>
+         <item> 木 </item>
+         <item> 金 </item>
+         <item> 土 </item>
+     </string-array>
+
+     <string name = "title_activity_achieve_detail"> 毎週成果の内訳 </string>
+     <string name = "title_activity_about"> について> </string>
+     <string name = "title_activity_profile_settings_dialog"> na</string>
+    <string name = "prompt_auto_stop">カウントは停止しました</string>
+
+    <string name = "ad_unit_id"> ca-app-pub-7902744369480335/4547274407</string>
+
+     <string name = "prompt_pickup_a_week">結果を表示するには、日付を選択するために上部を触れてください</string>
+    <string name = "str_sharing">それを共有する&#8230;</string>
+    <string name = "str_sharing_title">私はあなたとこのアプリを共有したい&#8230;</string>
+    <string name = "send_mail"> メールを送信&#8230; </string>
+    <string name = "str_yes">Yes</string>
+</resources>

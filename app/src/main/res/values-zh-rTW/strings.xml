@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">跑步管理</string>
+    <string name="str_version_info">版本 V2.0</string>
+    <string name="str_slogon">Joy Joger 快樂又健康的跑步管理程式</string>
+    <string name="str_product_info">您有任何建議嗎？請email 給我們</string>
+    <string name="action_settings">操作設定</string>
+    <string name="action_record_management">紀錄管理</string>
+    <string name="title_activity_goal_settings">目標設定</string>
+    <string name="action_help">說明</string>
+    <string name="action_about">關於</string>
+    
+    
+    <string name="str_goal1">低標</string>
+    <string name="str_goal2">高標</string>
+    <string name="title_achievement">成果</string>
+    <string name="goal_minutes_per_day">每日最少運動時間</string>
+    <string name="goal_days_per_week">每週最少運動天數</string>
+    <string name="goal_kcal_per_week">每週最低運動熱量</string>
+    <string name="achieverate_goal1">低標達成率</string>
+    <string name="achieverate_goal2">高標達成率</string>
+    <string name="radar_axis0_label">日數</string>
+    <string name="radar_axis1_label">時間</string>
+    <string name="radar_axis2_label">熱量</string>
+    <string name="radar_title">分佈圖</string>
+    <string name="action_instructions">Instructions</string>
+    <string name="str_null"></string>
+ 
+ 
+ 
+    <string name="start">開始</string>
+    <string name="stop">停止</string>
+    <string name="reset">清除</string>
+    <string name="time">Time</string>
+    <string name="steps">Steps</string>
+    <string name="distance">Distance</string>
+    <string name="personal_profile">個人資訊</string>
+    <string name="str_personal_id">代號</string>
+    <string name="str_personal_id_desc">請隨意輸入您個人專屬的代號, 由文字組成</string>
+    <string name="str_select_gender">請選擇您的性別</string>
+    <string name="str_select_gender_desc">性別用來計算BMI</string>
+    <string name="str_input_height">請輸入您的身高 </string>
+    <string name="str_input_height_desc">身高用來計算BMI.</string>
+    <string name="str_input_weight">請輸入您的體重 </string>
+    <string name="str_input_weight_desc">體重用來計算BMI及消耗熱量.</string>
+    <string name="str_input_waist">請輸入您的腰圍 </string>
+    <string name="str_input_waist_desc">腰圍用來計算肥胖指數.</string>
+    <string name="str_gender">性別</string>
+    <string name="str_height">身高</string>
+    <string name="str_weight">體重</string>
+    <string name="str_waist">腰圍</string>
+    <string name="str_male">男</string>
+    <string name="str_female">女</string>
+    <string name="str_cm">公分</string>
+    <string name="str_kg">公斤</string>
+    <string name ="str_inch">英吋</string>
+    <string name = "str_feet">呎</string>
+    <string name ="str_pound">磅</string>
+    <string name="str_date">日期</string>
+    <string name="str_BMI">BMI(正常範圍 18.5~24)</string>
+    <string name="str_waist_normal">腰圍正常</string>
+    <string name="str_waist_thin">腰圍過瘦</string>
+    <string name="str_waist_fat">腰圍過胖</string>
+    <string name="str_bmi_thin">體重過輕</string>
+    <string name="str_bmi_normal">正常</string>
+    <string name="str_bmi_heavy">體重過重</string>
+    <string name="str_bmi_fat">輕度肥胖</string>
+    <string name="str_bmi_middle_fat">中度肥胖</string>
+    <string name="str_bmi_too_fat">重度肥胖</string>
+    <string name="settings_motion_type">運動型式</string>
+    <string name="settings_type_walk">散步</string>
+    <string name="settings_type_jog">慢跑</string>
+    <string name="settings_type_run">快跑</string>
+    <string name="settings_step_distance">步距</string>
+    <string name="str_step_distance_desc">步距用來計算速度及消耗熱量.</string>
+    <string name="settings_measure_system">測量單位</string>
+    <string name="settings_measure_system_desc">公制或英制量測單位</string>
+    <string name="system_metric">公制</string>
+    <string name="system_english">英制</string>
+    <string name="settings_minutes_to_sleep">自動停止時間</string>
+    <string name="settings_minutes_to_sleep_desc">超過時間無動作自動停止計數, 可節省電力</string>
+    <string name="settings_record_keep_days">保留紀錄時間</string>
+    <string name="settings_record_keep_days_desc">計數及燃脂資料可保留的最長時間</string>
+    <string name="settings_mini_free_space">保留最低空間</string>
+    <string name="settings_mini_free_space_desc">當內存不足預留最低空間時, 將刪除最舊紀錄資料</string>
+    <string name="str_current_free_space">空間/全部:</string>
+    <string name="title_activity_food_fragment">Food Energy</string>
+    <string name="title_food_energy">食物熱量表</string>
+    <string name="title_activity_personal_profile">個人資訊</string>
+    <string name="daily_report">日報</string>
+    <string name="weekly_report">週報</string>
+    <string name="monthly_report">月報</string>
+    <string name="str_second">秒</string>
+    <string name="str_minute">分</string>
+    <string name="str_hour">時</string>
+    <string name="str_days">天</string>
+    <string name="str_mb">MB</string>
+    <string name="str_kcal">大卡</string>
+    <string name="str_cal">卡</string>
+     <string name = "str_energy"> 燃脂</string>
+     <string name = "str_speed"> 步速</string>      
+    <string name="str_rpm">步/分</string>
+    <string name="str_rph">步/時</string>
+    <string name="str_rpd">步/日</string>
+    <string name="str_achieve_rate">達成率</string>
+    <string name="str_actual">實際</string>
+
+    <string-array name="record_keep_days_options">
+        <item>一週</item>
+        <item>一個月</item>
+        <item>三個月</item>
+        <item>半年</item>
+        <item>一年</item>
+        <item>永遠</item>
+    </string-array>
+    <string-array name="goal1_minutes_per_day_options">
+        <item>十五分鐘</item>
+        <item>三十分鐘</item>
+        <item>四十五分鐘</item>
+        <item>六十分鐘</item>
+    </string-array>
+    <string-array name="goal2_minutes_per_day_options">
+        <item>一小時半</item>
+        <item>兩小時</item>
+        <item>兩小時半</item>
+        <item>三小時</item>
+    </string-array>
+    <string-array name="week_days">
+        <item>六</item>
+        <item>日</item>
+        <item>一</item>
+        <item>二</item>
+        <item>三</item>
+        <item>四</item>
+        <item>五</item>
+        <item>六</item>
+    </string-array>
+    <string name = "ad_unit_id"> ca-app-pub-7902744369480335/4547274407</string>
+    <string name="title_activity_achieve_detail">細項成果週報</string>
+    <string name="title_activity_about">關於</string>
+    <string name="title_activity_profile_settings_dialog">na</string>
+     <string name = "prompt_pickup_a_week">請輕觸頂端選擇日期來顯示成果</string>
+    <string name = "prompt_auto_stop">因長時間靜止已自動停止記數</string>
+    <string name = "str_sharing">分享...</string>
+    <string name = "str_sharing_title">與您分享一個好玩的App...</string>
+
+    <string name="send_mail">選擇email 程式&#8230;&#8230;&#8230;</string>
+    <string name = "str_yes">確定</string>
+</resources>
+
+

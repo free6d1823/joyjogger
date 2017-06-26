@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+     <string name = "app_name"> Joy Jogger </string>
+     <string name = "str_version_info"> Version V2.0 </string>
+     <string name = "str_slogon"> Your joggle management application on android device!</string>
+     <string name = "str_product_info"> If you have any suggestions, please email us.</string>
+     <string name = "action_settings"> Operation Settings </string>
+     <string name = "action_record_management"> Records Management </string>
+     <string name = "title_activity_goal_settings"> Goals Settings </string>
+     <string name = "action_help"> Help </string>
+     <string name = "action_about"> About </string>
+    
+    
+     <string name = "str_goal1"> Low goal </string>
+     <string name = "str_goal2"> High goal </string>
+     <string name = "title_achievement"> Achievements </string>
+     <string name = "goal_minutes_per_day"> Min. exercise time per day</string>
+     <string name = "goal_days_per_week"> Min. exercise days per week </string>
+     <string name = "goal_kcal_per_week"> Min. burned calories per week </string>
+     <string name = "achieverate_goal1"> Low goal</string>
+     <string name = "achieverate_goal2"> High goal</string>
+     <string name = "radar_axis0_label"> Days </string>
+     <string name = "radar_axis1_label"> Minutes </string>
+     <string name = "radar_axis2_label"> Burned calories </string>
+     <string name = "radar_title"> Chart</string>
+     <string name = "action_instructions"> Instructions </string>
+     <string name = "str_null"> </string>
+ 
+ 
+ 
+     <string name = "start"> Start </string>
+     <string name = "stop"> Stop </string>
+     <string name = "reset"> Clear </string>
+     <string name = "time"> Time </string>
+     <string name = "steps"> Steps </string>
+     <string name = "distance"> Distance </string>
+     <string name = "personal_profile"> Personal profile </string>
+     <string name = "str_personal_id"> Name </string>
+     <string name = "str_personal_id_desc"> Please enter any character to identify yourself. Not necessary your real name. </string>
+     <string name = "str_select_gender"> Please select your gender </string>
+     <string name = "str_select_gender_desc"> Gender is used to calculate BMI </string>
+     <string name = "str_input_height"> Please enter your height </string>
+     <string name = "str_input_height_desc"> Height is used to calculate BMI. </string>
+     <string name = "str_input_weight"> Please enter your weight </string>
+     <string name = "str_input_weight_desc"> Weight is used to calculate BMI and calorie consumption. </string>
+     <string name = "str_input_waist"> Please enter your waist circumference </string>
+     <string name = "str_input_waist_desc">Measuring waist circumference helps screen for possible health risks that come with overweight and obesity.</string>
+     <string name = "str_gender"> Gender </string>
+     <string name = "str_height"> Height </string>
+     <string name = "str_weight"> Weight </string>
+     <string name = "str_waist"> Waist Circumference </string>
+     <string name = "str_male"> Male </string>
+     <string name = "str_female"> Female </string>
+     <string name = "str_cm"> cm </string>
+     <string name = "str_kg"> kgs </string>
+     <string name = "str_inch"> inches </string>
+    <string name = "str_feet"> ft.</string>
+     <string name = "str_pound"> lbs </string>
+     <string name = "str_date"> Date </string>
+     <string name = "str_BMI"> BMI (Healthy range 18.5 ~ 24) </string>
+     <string name = "str_waist_normal"> Waist is in healthy range</string>
+     <string name = "str_waist_thin"> Waist is too slim </string>
+     <string name = "str_waist_fat"> Obesity </string>
+     <string name = "str_bmi_thin"> Underweight </string>
+     <string name = "str_bmi_normal"> Healthy</string>
+     <string name = "str_bmi_heavy"> Overweight </string>
+     <string name = "str_bmi_fat"> Obese </string>
+     <string name = "str_bmi_middle_fat"> Moderately obese </string>
+     <string name = "str_bmi_too_fat"> Extremely obese </string>
+     <string name = "settings_motion_type"> Exercise Type </string>
+     <string name = "settings_type_walk"> Walking </string>
+     <string name = "settings_type_jog"> Jogging </string>
+     <string name = "settings_type_run"> Running </string>
+     <string name = "settings_step_distance"> Step distance</string>
+     <string name = "str_step_distance_desc"> Step distance is used to calculate the speed and calorie consumption. </string>
+     <string name = "settings_measure_system"> Measurement System</string>
+     <string name = "settings_measure_system_desc"> The weight and length units used in the measurement. </string>
+     <string name = "system_metric"> Metric </string>
+     <string name = "system_english"> Inch </string>
+     <string name = "settings_minutes_to_sleep"> Auto stop time </string>
+     <string name = "settings_minutes_to_sleep_desc"> When no action over the time, the counter will stop to save power. </string>
+     <string name = "settings_record_keep_days"> Days to keep the record </string>
+     <string name = "settings_record_keep_days_desc"> The maximum days of record can be kept in local storage. </string>
+     <string name = "settings_mini_free_space"> Minimum of space </string>
+     <string name = "settings_mini_free_space_desc"> The oldest record in the storage will be removed to keep the minimum free space. </string>
+     <string name = "str_current_free_space"> Free/All: </string>
+     <string name = "title_activity_food_fragment"> Food Energy </string>
+     <string name = "title_food_energy"> Food Energy </string>
+     <string name = "title_activity_personal_profile"> Personal profile </string>
+     <string name = "daily_report"> Daily </string>
+     <string name = "weekly_report"> Weekly </string>
+     <string name = "monthly_report"> Monthly </string>
+     <string name = "str_second"> sec </string>
+     <string name = "str_minute"> min </string>
+     <string name = "str_hour"> hr</string>
+     <string name = "str_days"> days </string>
+     <string name = "str_mb"> MB </string>
+     <string name = "str_kcal"> kcal </string>
+     <string name = "str_cal"> cal. </string>
+     <string name = "str_energy"> Energy</string>
+     <string name = "str_speed"> Speed </string>     
+     <string name = "str_rpm"> rpm </string>
+     <string name = "str_rph"> rph </string>
+     <string name = "str_rpd"> st/d </string>
+     <string name = "str_achieve_rate"> Achiev. rate </string>
+     <string name = "str_actual"> Actual </string>
+
+     <string-array name = "record_keep_days_options">
+         <item> One week </item>
+         <item> One month </item>
+         <item> Three months </item>
+         <item> Six months </item>
+         <item> One year </item>
+         <item> Forever </item>
+     </string-array>
+     <string-array name = "goal1_minutes_per_day_options">
+         <item> 15 minutes </item>
+         <item> 30 minutes </item>
+         <item> 45 minutes </item>
+         <item> 60 minutes </item>
+     </string-array>
+     <string-array name = "goal2_minutes_per_day_options">
+         <item> 90 minutes </item>
+         <item> two hours </item>
+         <item> two hours and a half </item>
+         <item> three hours </item>
+     </string-array>
+     <string-array name = "week_days">
+         <item> Sat</item>
+         <item> Sun </item>
+         <item> Mon </item>
+         <item> Tue </item>
+         <item> Wed </item>
+         <item> Thu </item>
+         <item> Fri </item>
+         <item> Sat </item>
+     </string-array>
+
+
+    <string name = "ad_unit_id"> ca-app-pub-7902744369480335/4547274407</string>
+    <string name="title_activity_achieve_detail"> Details of Achievement</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_profile_settings_dialog">na</string>
+
+    <string name = "prompt_pickup_a_week">Please tap top to pick up a week to display achievement</string>
+    <string name = "prompt_auto_stop">Stop counting automatically because of idling</string>
+    <string name = "str_sharing">Sharing &#8230;</string>
+    <string name = "str_sharing_title">I would like to share this App with you&#8230;</string>
+     <string name = "send_mail"> Send email &#8230;</string>
+    <string name = "str_yes"> Yes</string>
+
+ 
+     
+     
+</resources>

@@ -1,0 +1,40 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">2dp</dimen>
+    <dimen name="activity_vertical_margin">2dp</dimen>
+    <color name="default_circle_indicator_page_color">#ffffff</color>
+    <color name="default_circle_indicator_fill_color">#000000</color>
+    <color name="default_circle_indicator_stroke_color">#00ffff</color>
+    <dimen name="default_circle_indicator_stroke_width">2dp</dimen>
+    <dimen name="default_circle_indicator_radius">4dp</dimen>
+    
+     <color name="color_normal">#ff002255</color>    
+     <color name="color_warning">#ffbb8800</color>    
+          <color name="color_dangerous">#ffee0011</color>              
+    <color name="color_content_text">#ff7e78d7</color>     
+    <color name="cr_button_up1">#60d9d8ef</color>  
+    <color name="cr_button_up2">#00ffffff</color> 
+    <color name="cr_button_frame">#70d9d8ef</color>     
+    <color name="cr_plate1">#ff408042</color>  
+    <color name="cr_plate2">#ff307032</color>      
+
+    <color name="cr_text_shadow">#f019182f</color>   
+   
+    <color name="cr_frame1">#ff508042</color>      
+    <color name="cr_frame2">#ff305023</color>  
+    <dimen name="text_size_header">24dp</dimen>
+    <dimen name="text_size_title">20dp</dimen>
+    <dimen name="text_size_message">18dp</dimen>
+    <color name="color_header_text">#eeee88</color>
+    <color name="color_title_text">#ffaa00</color>
+
+    <color name="color_item_tag">#ffeecccc</color>  
+    <color name="color_item_value">#ffbbeeff</color>  
+     <color name="color_item_unit">#ff99eeff</color>     
+     <color name="color_bar_fill">#b0ddbb00</color>
+     <color name="color_bar_line">#d0aa8800</color>    
+     <color name="color_curve_line">#f0ee1100</color>  
+    <color name="color_lebel1">#ffee0022</color>  
+    <color name="color_lebel2">#ffeedd22</color>      
+</resources>
